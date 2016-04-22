@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6db515b6-336e-4829-9e2e-709dbbf302cb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contactus.html" afterPath="$PROJECT_DIR$/contactus.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="NoahKovacs-WEB-140.iws" />
@@ -91,8 +88,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+            <state relative-caret-position="168">
+              <caret line="482" column="5" selection-start-line="482" selection-start-column="5" selection-end-line="482" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -270,12 +267,12 @@
       <workItem from="1460655599283" duration="1660000" />
       <workItem from="1460677167097" duration="3695000" />
       <workItem from="1461209854877" duration="1231000" />
-      <workItem from="1461213603641" duration="14745000" />
+      <workItem from="1461213603641" duration="14870000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27983000" />
+    <option name="totallyTimeSpent" value="28108000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
@@ -603,8 +600,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+        <state relative-caret-position="168">
+          <caret line="482" column="5" selection-start-line="482" selection-start-column="5" selection-end-line="482" selection-end-column="5" />
           <folding />
         </state>
       </provider>

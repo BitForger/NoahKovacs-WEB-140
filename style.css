@@ -452,10 +452,7 @@ video {
 	width        : 70%;
 }
 
-#logo {
-	width  : 30%;
-	height : auto;
-}
+
 
 @media ( max-width: 1166px ) {
 
@@ -479,6 +476,12 @@ video {
 }
 
 @media (min-width : 800px ) {
+
+	#logo {
+		width  : 30%;
+		height : auto;
+	}
+
 	nav {
 		background-color : #222325;
 		color            : #ffffff;
