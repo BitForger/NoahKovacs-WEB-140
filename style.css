@@ -24,7 +24,7 @@ p::selection {
 
 .sectionRight p {
 	background-color   : #1300aa;
-	padding            : 5px;
+	padding            : 15px;
 	font-family        : droid-sans, sans-serif;
 	font-style         : normal;
 	font-weight        : 400;
@@ -39,6 +39,8 @@ header {
 	text-align       : center;
 	background-color : rgba(247, 247, 247, 0.72);
 	padding-bottom   : 2%;
+	margin-right : auto;
+	margin-left : auto;
 }
 
 footer {
@@ -457,6 +459,12 @@ video {
 
 @media ( max-width: 1166px ) {
 
+	header {
+		width: 90%;
+		margin-right : auto;
+		margin-left : auto;
+	}
+
 	nav, nav a {
 		display: block;
 		white-space: nowrap;
@@ -516,9 +524,11 @@ video {
 		display      : block;
 	}
 
-	#logo {
-		width  : 30%;
-		height : auto;
+
+	header {
+		width : 90%;
+		margin-right : auto;
+		margin-left : auto;
 	}
 
 }
