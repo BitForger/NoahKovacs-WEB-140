@@ -587,7 +587,7 @@ video {
 
 @media (max-width : 520px) {
 	#logo {
-		width  : 30%;
+		width  : 60%;
 		height : auto;
 	}
 }
