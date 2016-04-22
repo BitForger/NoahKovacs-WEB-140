@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+html {
+	background-color: #CCCCCC;
+}
+
+#logo {
+	width      : 20%;
+	height     : auto;
+	text-align : center;
+	margin     : auto;
+	top : auto;
+	bottom : auto;
+	padding-left : 1em;
+	padding-right : 1em;
+}
