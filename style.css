@@ -452,7 +452,22 @@ video {
 	width        : 70%;
 }
 
+.clearFloat {
+	clear : both;
+}
 
+#vidContainer {
+	display : block;
+	margin-left : auto;
+	margin-right : auto;
+	width : 60%;
+	background-color : #fff;
+	-webkit-box-shadow : 3px 3px 20px -6px;
+	-moz-box-shadow    : 3px 3px 20px -6px;
+	box-shadow         : 3px 3px 20px -6px;
+	text-align : center;
+	padding : 15px;
+}
 
 @media ( max-width: 1166px ) {
 
